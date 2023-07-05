@@ -1,0 +1,42 @@
+*{
+	background-color:black;
+}
+
+h1{
+	text-align:center;
+}
+
+h1, h2, h3, h4{
+	color:white;
+}
+
+h1, h2, h3{
+	text-decoration:underline;
+}
+
+p.a{
+	color:rgb(0, 255, 0);
+}
+
+p.b{
+	color:rgba(0, 255, 0, 0.4);
+}
+
+p.c{
+	color:#c2e30f;
+}
+
+p.c2{
+	color:#bcd;
+}
+p.d{
+	color:hsl(50, 80%, 40%);
+}
+
+p.e{
+	color:hsla(50, 80%, 40%, 0.4);
+}
+
+
+
+
